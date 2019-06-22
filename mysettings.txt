@@ -1,5 +1,5 @@
 [your-config]
 BROWSER = chrome
-BROWSER_PATH = '/Users/Kemical/Downloads/chromedriver'
-NAME = "BLOC DE NOTAS"
+BROWSER_PATH = 'Insert here webdriver path'
+NAME = "Name of the chat"
 PAGE = https://web.whatsapp.com/
