@@ -1,0 +1,5 @@
+[your-config]
+BROWSER = chrome
+BROWSER_PATH = '/Users/Kemical/Downloads/chromedriver'
+NAME = "BLOC DE NOTAS"
+PAGE = https://web.whatsapp.com/
